@@ -1,2 +1,0 @@
-# Mizux
-Database base json
